@@ -1,2 +1,12 @@
 # TorontoWeather
-A simple web app which displays the current weather in Toronto
+A simple web app which displays the current weather information for Toronto, CA
+
+## Dependencies
+No install required. Public CDN links are used for all script/stylesheet dependencies
+- AngularJS 1.5.6
+- Bootstrap 4
+- jQuery 3.2.1
+
+
+
+Built using Public Weather API provided by FreeCodeCamp - https://fcc-weather-api.glitch.me/
