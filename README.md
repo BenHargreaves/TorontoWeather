@@ -8,6 +8,6 @@ No install required. Public CDN links are used for all script/stylesheet depende
 - jQuery 3.2.1
 
 ## Screenshot
-![Weather App](screenshots/TorontoWeather.png "Toronto Weather App")
+![Weather App](/screenshots/TorontoWeather.PNG "Toronto Weather App")
 
 Built using Public Weather API provided by FreeCodeCamp - https://fcc-weather-api.glitch.me/
